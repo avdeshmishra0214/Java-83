@@ -14,7 +14,7 @@ class FinalTest
 	final FinalTest(){}
 	*/
 	final int n = 12; //instance variable
-
+	
 	public static void main(String[] args) 
 	{
 		final int n = 25; //local variable
